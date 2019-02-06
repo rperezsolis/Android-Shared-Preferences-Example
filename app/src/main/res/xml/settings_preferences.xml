@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:defaultValue="@bool/pref_box_1_default"
+        android:key="@string/pref_key_box_1"
+        android:summaryOff="White"
+        android:summaryOn="Colored"
+        android:title="@string/pref_label_box_1"/>
+
+    <CheckBoxPreference
+        android:defaultValue="@bool/pref_box_2_default"
+        android:key="@string/pref_key_box_2"
+        android:summaryOff="White"
+        android:summaryOn="Colored"
+        android:title="@string/pref_label_box_2"/>
+
+    <CheckBoxPreference
+        android:defaultValue="@bool/pref_box_3_default"
+        android:key="@string/pref_key_box_3"
+        android:summaryOff="White"
+        android:summaryOn="Colored"
+        android:title="@string/pref_label_box_3"/>
+
+</PreferenceScreen>

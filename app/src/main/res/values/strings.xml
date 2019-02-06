@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shared Preferences Example</string>
+
+    <string name="settings">Settings</string>
+    
+    <!-- SharedPreferences -->
+    <string name="pref_key_box_1">box_1_colored</string>
+    <string name="pref_key_box_2">box_2_colored</string>
+    <string name="pref_key_box_3">box_3_colored</string>
+    <string name="pref_label_box_1">Coloring the first box</string>
+    <string name="pref_label_box_2">Coloring the second box</string>
+    <string name="pref_label_box_3">Coloring the third box</string>
+    <string name="summary_off_box_1">White</string>
+    <string name="summary_off_box_2">White</string>
+    <string name="summary_off_box_3">White</string>
+    <string name="summaty_on_box_1">Yellow</string>
+    <string name="summaty_on_box_2">Green</string>
+    <string name="summaty_on_box_3">Blue</string>
+</resources>
